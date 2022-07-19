@@ -37,7 +37,7 @@
             android:layout_marginTop="100dp"
             android:layout_marginStart="10dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
@@ -48,7 +48,7 @@
             android:layout_marginTop="100dp"
             android:layout_marginStart="10dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
@@ -65,7 +65,7 @@
             android:layout_height="100dp"
             android:layout_marginStart="40dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
@@ -75,7 +75,7 @@
             android:layout_height="100dp"
             android:layout_marginStart="10dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
@@ -85,7 +85,7 @@
             android:layout_height="100dp"
             android:layout_marginStart="10dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
@@ -102,7 +102,7 @@
             android:layout_height="100dp"
             android:layout_marginStart="40dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
@@ -112,7 +112,7 @@
             android:layout_height="100dp"
             android:layout_marginStart="10dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
@@ -122,7 +122,7 @@
             android:layout_height="100dp"
             android:layout_marginStart="10dp"
             android:backgroundTint="#b0aea7"
-            android:text=" "
+            android:text=""
             android:textSize="50sp">
         </Button>
 
