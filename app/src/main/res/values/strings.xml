@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="x_piece">X</string>
+    <string name="o_piece">X</string>
+    <string name="new_game">New Game</string>
+    <string name="title">Tic Tac Toe</string>
+</resources>
